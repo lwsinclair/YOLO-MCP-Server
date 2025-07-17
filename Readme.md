@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/gongrzhe-yolo-mcp-server-badge.png)](https://mseep.ai/app/gongrzhe-yolo-mcp-server)
+
 # YOLO MCP Service
 
 A powerful YOLO (You Only Look Once) computer vision service that integrates with Claude AI through Model Context Protocol (MCP). This service enables Claude to perform object detection, segmentation, classification, and real-time camera analysis using state-of-the-art YOLO models.
